@@ -1,4 +1,4 @@
-const forwarderOrigin = 'https://novanazizr.github.io';
+const forwarderOrigin = 'https://novanazizr.github.io/simple-dapp/start/index.htm';
 
 const initialize = () => {
   //Basic Actions Section
