@@ -1,4 +1,4 @@
-const forwarderOrigin = 'http://localhost:9010';
+const forwarderOrigin = 'https://novanazizr.github.io';
 
 const initialize = () => {
   //Basic Actions Section
