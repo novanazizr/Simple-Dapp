@@ -1,5 +1,3 @@
-const forwarderOrigin = 'https://novanazizr.github.io/simple-dapp/start/index.htm';
-
 const initialize = () => {
   //Basic Actions Section
   const onboardButton = document.getElementById('connectButton');
