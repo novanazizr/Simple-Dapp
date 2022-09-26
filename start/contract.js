@@ -1,3 +1,5 @@
+const forwarderOrigin = 'http://localhost:9010';
+
 const initialize = () => {
   //Basic Actions Section
   const onboardButton = document.getElementById('connectButton');
